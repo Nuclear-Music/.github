@@ -7,7 +7,7 @@ Nuclear Music APK is an immersive mobile app that blends horror, puzzles, and in
 
 | **🔤 Name**         | **📦 Version**  | **📏 Size** | **🖥️ Supported OS** | **🆔 Package ID**          | **📥 Downloads** | **🏷️ Category**   | **🕒 Last Updated** |
 |---------------------|-----------------|-------------|----------------------|---------------------------|------------------|-------------------|---------------------|
-| Nuclear Music       | v0.6.30        | 85 MB       | Android 5.0+         | com.nuclear.music.app     | 200,000+         | Music, Player     | 2024-11-22          |
+| Nuclear Music       | v0.6.30        | 85 MB       | Android 5.0+         | com.nuclear.music.app     | 200,000+         | Music, Player     | 2024-09-17          |
 
 ![output](https://github.com/user-attachments/assets/5474030f-311e-44c2-a0ad-d14d34055cfb)
 
